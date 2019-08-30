@@ -43,7 +43,7 @@ export default class Projects extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>EXT2 File System <span>2018</span></h2>
+                        <h2>EXT2 FILE SYSTEM <span>2018</span></h2>
                         <p>Implemented the EXT2 file system and wrote tools to modify the EXT2-format <b>virtual disk</b>. Simulated operations of a 2-level <b>Page Table</b> and <b>Page Replacement algorithm</b></p> 
                       </div>
                     </div>
@@ -54,8 +54,19 @@ export default class Projects extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Partially Observed Image Completion <span>2018</span></h2>
-                        <p>Implemented a probabilistic model using EM algorithm which can apply to the image completion of partially observed handwritten digits. Achieved significantly higher average log likelihood with the EM model than the average log likelihood for with the supervised learning model.</p> 
+                        <h2>PARTIALLY OBSERVED IMAGE COMPLETION <span>2018</span></h2>
+                        <p>Implemented a probabilistic model using <b>EM algorithm</b> which can apply to the image completion of partially observed handwritten digits. </p> 
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>KINEMATICS<span>2019</span></h2>
+                        <p>Implemented a probabilistic model using <b>EM algorithm</b> which can apply to the image completion of partially observed handwritten digits. </p> 
                       </div>
                     </div>
                   </article>
